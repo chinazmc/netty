@@ -32,6 +32,7 @@ import io.netty.handler.ssl.util.SelfSignedCertificate;
 
 /**
  * Echoes back any received data from a client.
+ * 用来测试的类
  */
 public final class EchoServer {
 

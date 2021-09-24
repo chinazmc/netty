@@ -33,6 +33,7 @@ import io.netty.handler.ssl.util.InsecureTrustManagerFactory;
  * data to the server.  Simply put, the echo client initiates the ping-pong
  * traffic between the echo client and server by sending the first message to
  * the server.
+ * 用来测试的类
  */
 public final class EchoClient {
 
